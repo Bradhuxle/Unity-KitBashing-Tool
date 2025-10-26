@@ -9,6 +9,8 @@ Version 1.0
 By: Bradhuxle
 
 How to use:
+Drag this script to the asset folder. or your can create a Folder name Thirdparty Plugins.
+
 Select any grouped or single object, hover on the top bar, select tools, click "Export Selected to OBJ".
 This will work with any mesh or unity 3D objects. If the object was a parent, it will union all the children inside making it a whole mesh.
 Follow my socials for updates and improvements
