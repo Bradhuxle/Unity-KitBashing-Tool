@@ -21,3 +21,5 @@ Usage:
 Select your object → go to Tools > Export Selected to OBJ (With Materials) → choose a save location → done.
 
 💡 No need to open Blender, deal with UV maps, or touch complex export settings — just select, export, and vibe.
+
+Give my socials a follow, for more tools like this -Bradhuxle
