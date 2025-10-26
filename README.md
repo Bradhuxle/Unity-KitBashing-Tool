@@ -1,6 +1,5 @@
-# Unity-KitBashing-Tool
-# Unity-Prefab-to-OBJ-Exporter
-OBJ Exporter for Unity — No Blender Needed!
+# Unity KitBashing Tool
+OBJ Exporter for Unity prefabs and object kitbashing
 
 If you’re a lazy bum (like most of us 😏) and don’t want to spend hours learning Blender — this tool’s got you covered.
 
