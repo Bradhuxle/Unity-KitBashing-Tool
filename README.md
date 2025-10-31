@@ -8,10 +8,10 @@ This Unity Editor plugin lets you instantly export any selected GameObject — o
 
 
 Perfect for:
-✅ Kitbashing
-✅ Remixing downloaded models
-✅ Quick exports for Blender or any 3D software
-✅ Turning Unity prefabs into standalone models
+- Kitbashing
+- Remixing downloaded models
+- Quick exports for Blender or any 3D software
+- Turning Unity prefabs into standalone models
 
 Features
 Generates .OBJ and .MTL files
