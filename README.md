@@ -6,6 +6,7 @@ That’s why this tool exists.
 
 This Unity Editor plugin lets you instantly export any selected GameObject — or a whole group — into a clean, ready-to-use 3D model. Materials, textures, and images are all included. Combine assets, kitbash your own creations, then export everything as a single .obj with zero struggle.
 
+
 Perfect for:
 ✅ Kitbashing
 ✅ Remixing downloaded models
