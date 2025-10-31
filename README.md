@@ -1,22 +1,39 @@
-# Unity KitBashing Tool
-OBJ Exporter for Unity prefabs/mesh/object kitbashing
+Unity KitBashing Tool
+OBJ Exporter for Prefabs, Meshes & Kitbashed Objects
 
-If you’re a lazy bum (like most of us 😏) and don’t want to spend hours learning Blender — this tool’s got you covered.
+Don’t feel like spending hours learning Blender? Same. 😏
+That’s why this tool exists.
 
-This Unity Editor script lets you instantly convert any selected GameObject or group of objects into a complete 3D model with materials, textures, and images included. Combine models, export them as a single mesh, and get a clean .obj + .mtl setup with zero hassle.
+This Unity Editor plugin lets you instantly export any selected GameObject — or a whole group — into a clean, ready-to-use 3D model. Materials, textures, and images are all included. Combine assets, kitbash your own creations, then export everything as a single .obj with zero struggle.
 
-Whether you’re kitbashing assets, remixing downloaded models, or just need a quick export for Blender or other 3D tools — this script makes it effortless.
+Perfect for:
+✅ Kitbashing
+✅ Remixing downloaded models
+✅ Quick exports for Blender or any 3D software
+✅ Turning Unity prefabs into standalone models
 
-Features:
-- Exports full .obj and .mtl files
-- Automatically includes textures and materials
-- Works with single or grouped objects
-- One-click export from the Unity Editor
+✅ Features
 
-Usage:
-Select your object → go to Tools > Export Selected to OBJ (With Materials) → choose a save location → done.
-💡 No need to open Blender, deal with UV maps, or touch complex export settings — just select, export, and vibe.
+Generates .OBJ and .MTL files
 
+Automatically packs textures & materials
 
-Give my socials a follow, for more tools like this
--Bradhuxle
+Works with single objects or entire hierarchies
+
+One-click export inside Unity
+
+🚀 How to Use
+
+Select any object(s) in your scene
+
+Go to Tools → Export Selected to OBJ (With Materials)
+
+Choose a save location
+
+Done. Enjoy your new 3D model.
+
+💡 No Blender setup. No UV headaches. No confusing export settings.
+Just select, export, and vibe.
+
+Follow my socials for more tools & plugins.
+– Bradhuxle
