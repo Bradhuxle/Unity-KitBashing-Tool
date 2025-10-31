@@ -12,24 +12,16 @@ Perfect for:
 ✅ Quick exports for Blender or any 3D software
 ✅ Turning Unity prefabs into standalone models
 
-✅ Features
-
+Features
 Generates .OBJ and .MTL files
-
 Automatically packs textures & materials
-
 Works with single objects or entire hierarchies
-
 One-click export inside Unity
 
 🚀 How to Use
-
 Select any object(s) in your scene
-
 Go to Tools → Export Selected to OBJ (With Materials)
-
 Choose a save location
-
 Done. Enjoy your new 3D model.
 
 💡 No Blender setup. No UV headaches. No confusing export settings.
